@@ -16,6 +16,6 @@ void loop() {
   Serial.print(temp);
   Serial.print(" Kelvin. ");
   Serial.print(temp-273);
-  Serial.print(" Celcius.");
+  Serial.print(" Celsius.");
   Serial.println();
 }
